@@ -6,7 +6,7 @@ date=`date --utc`
 url=`curl --upload-file $file https://transfer.sh/bootstrap.dat`
 readmeHead="bootstrap.dat files for DarkCoin\n==="
 prevLinks=`tail -n +3 README.md | head`
-echo -e "$readmeHead\n$date [$url]($url)\n$prevLinks" > README.md
+echo -e "$readmeHead\n$date [$url]($url)\n\n$prevLinks" > README.md
 #cat README.md
 rm $file
 git commit -am "$date - autoupdate"
