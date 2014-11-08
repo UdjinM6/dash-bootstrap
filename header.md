@@ -2,7 +2,7 @@
 
 ### Usage
 
-Download one of the files linked below to your  DarkCoin folder:
+Download and extract one of the recent files linked below to your DarkCoin folder:
 - Windows: %APPDATA%\DarkCoin\
 - Mac OS: ~/Library/Application Support/DarkCoin/
 - Linux: ~/.darkcoin/
