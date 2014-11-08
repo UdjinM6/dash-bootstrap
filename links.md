@@ -1,3 +1,5 @@
+Sat Nov  8 00:00:09 UTC 2014 [https://transfer.sh/1g002h/bootstrap.dat](https://transfer.sh/1g002h/bootstrap.dat) (352M) [MD5](https://transfer.sh/vV0xA/md5.txt) [SHA256](https://transfer.sh/BJHDL/sha256.txt)
+
 Fri Nov  7 00:00:08 UTC 2014 [https://transfer.sh/pRmb5/bootstrap.dat](https://transfer.sh/pRmb5/bootstrap.dat) [MD5](https://transfer.sh/10GK0N/md5.txt) [SHA256](https://transfer.sh/4h49X/sha256.txt)
 
 Thu Nov  6 00:00:09 UTC 2014 [https://transfer.sh/v0QAN/bootstrap.dat](https://transfer.sh/v0QAN/bootstrap.dat) [MD5](https://transfer.sh/Eaon0/md5.txt) [SHA256](https://transfer.sh/exfrI/sha256.txt)
@@ -7,5 +9,3 @@ Wed Nov  5 20:50:50 UTC 2014 [https://transfer.sh/b0Dpx/bootstrap.dat](https://t
 Wed Nov  5 20:45:01 UTC 2014 [https://transfer.sh/9sKRk/bootstrap.dat](https://transfer.sh/9sKRk/bootstrap.dat) [MD5](https://transfer.sh/6Qsq2/md5.txt) [SHA256](https://transfer.sh/199q9h/sha256.txt)
 
 Wed Nov  5 02:07:02 UTC 2014 [https://transfer.sh/cLYVZ/bootstrap.dat](https://transfer.sh/cLYVZ/bootstrap.dat)
-
-Wed Nov  5 00:00:04 UTC 2014 [https://transfer.sh/1fZ7X2/bootstrap.dat](https://transfer.sh/1fZ7X2/bootstrap.dat)
