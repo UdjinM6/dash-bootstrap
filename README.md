@@ -2,7 +2,7 @@
 
 ### Usage
 
-1. Download and extract one of the recent files linked below 
+1. Download and extract one of the recent files linked below
 2. Place bootstrap.dat file to your DarkCoin folder:
  - Windows: %APPDATA%\DarkCoin\
  - Mac OS: ~/Library/Application Support/DarkCoin/
@@ -10,9 +10,9 @@
 
 ### Recent files
 
+Sun Nov  9 00:00:01 UTC 2014 [https://transfer.sh/iXzXh/bootstrap.dat.20141109.zip](https://transfer.sh/iXzXh/bootstrap.dat.20141109.zip) (255M) [MD5](https://transfer.sh/2OAT7/md5.txt) [SHA256](https://transfer.sh/PCfCu/sha256.txt)
+
 Sat Nov  8 04:54:17 UTC 2014 [https://transfer.sh/gVu6n/bootstrap.dat.20141108.zip](https://transfer.sh/gVu6n/bootstrap.dat.20141108.zip) (253M) [MD5](https://transfer.sh/1fM0bb/md5.txt) [SHA256](https://transfer.sh/12GYco/sha256.txt)
-
-
 
 ### Donations are welcome:
 
