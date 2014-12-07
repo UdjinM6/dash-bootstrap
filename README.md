@@ -3,7 +3,7 @@
 ### Usage
 
 1. Download and extract one of the recent files linked below.
-2. Place bootstrap.dat file to your DarkCoin folder:
+2. Place bootstrap.dat file in your DarkCoin folder:
  - Windows: %APPDATA%\DarkCoin\
  - Mac OS: ~/Library/Application Support/DarkCoin/
  - Linux: ~/.darkcoin/
