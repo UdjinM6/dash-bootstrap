@@ -12,6 +12,10 @@
 
 ### Recent files
 
+####For mainnet:
+
+Sun Dec  7 05:05:50 UTC 2014 [https://transfer.sh/6vHxX/bootstrap.dat.20141207.zip](https://transfer.sh/6vHxX/bootstrap.dat.20141207.zip) (278M) [MD5](https://transfer.sh/6IRDP/md5.txt) [SHA256](https://transfer.sh/anELw/sha256.txt)
+
 Sun Dec  7 00:00:02 UTC 2014 [https://transfer.sh/BBqHs/bootstrap.dat.20141207.zip](https://transfer.sh/BBqHs/bootstrap.dat.20141207.zip) (278M) [MD5](https://transfer.sh/56iQF/md5.txt) [SHA256](https://transfer.sh/1fZ6oK/sha256.txt)
 
 Sat Dec  6 00:00:01 UTC 2014 [https://transfer.sh/KcnSd/bootstrap.dat.20141206.zip](https://transfer.sh/KcnSd/bootstrap.dat.20141206.zip) (277M) [MD5](https://transfer.sh/12qin5/md5.txt) [SHA256](https://transfer.sh/yA1JS/sha256.txt)
@@ -22,7 +26,9 @@ Thu Dec  4 00:00:01 UTC 2014 [https://transfer.sh/1XhNv/bootstrap.dat.20141204.z
 
 Wed Dec  3 00:00:01 UTC 2014 [https://transfer.sh/PH41z/bootstrap.dat.20141203.zip](https://transfer.sh/PH41z/bootstrap.dat.20141203.zip) (274M) [MD5](https://transfer.sh/Vxs6k/md5.txt) [SHA256](https://transfer.sh/9uCKv/sha256.txt)
 
-Tue Dec  2 00:00:01 UTC 2014 [https://transfer.sh/rm3i8/bootstrap.dat.20141202.zip](https://transfer.sh/rm3i8/bootstrap.dat.20141202.zip) (273M) [MD5](https://transfer.sh/EdQl5/md5.txt) [SHA256](https://transfer.sh/1dBRPy/sha256.txt)
+####For testnet:Sun Dec  7 05:05:50 UTC 2014 [https://transfer.sh/1cLVlF/bootstrap.dat.20141207.zip](https://transfer.sh/1cLVlF/bootstrap.dat.20141207.zip) (98M) [MD5](https://transfer.sh/8ROUR/md5.txt) [SHA256](https://transfer.sh/1c4OlT/sha256.txt)
+
+
 
 ### Donations are welcome:
 
