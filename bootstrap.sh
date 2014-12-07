@@ -36,7 +36,7 @@ newLinksTestnet="$date [$url]($url) ($size) [MD5]($url_md5) [SHA256]($url_sha256
 echo -e "$newLinksTestnet" > linksTestnet.md
 rm $file $file_zip $file_md5 $file_sha256
 #construct README.md
-echo -e "$header\n\n####For mainnet:\n\n$newLinks\n\n####For testnet:$newLinksTestnet\n\n$footer" > README.md
+echo -e "$header\n\n####For mainnet:\n\n$newLinks\n\n####For testnet:\n\n$newLinksTestnet\n\n$footer" > README.md
 #push
 git commit -am "$date - autoupdate"
 git push

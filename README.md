@@ -26,7 +26,9 @@ Thu Dec  4 00:00:01 UTC 2014 [https://transfer.sh/1XhNv/bootstrap.dat.20141204.z
 
 Wed Dec  3 00:00:01 UTC 2014 [https://transfer.sh/PH41z/bootstrap.dat.20141203.zip](https://transfer.sh/PH41z/bootstrap.dat.20141203.zip) (274M) [MD5](https://transfer.sh/Vxs6k/md5.txt) [SHA256](https://transfer.sh/9uCKv/sha256.txt)
 
-####For testnet:Sun Dec  7 05:05:50 UTC 2014 [https://transfer.sh/1cLVlF/bootstrap.dat.20141207.zip](https://transfer.sh/1cLVlF/bootstrap.dat.20141207.zip) (98M) [MD5](https://transfer.sh/8ROUR/md5.txt) [SHA256](https://transfer.sh/1c4OlT/sha256.txt)
+####For testnet:
+
+Sun Dec  7 05:05:50 UTC 2014 [https://transfer.sh/1cLVlF/bootstrap.dat.20141207.zip](https://transfer.sh/1cLVlF/bootstrap.dat.20141207.zip) (98M) [MD5](https://transfer.sh/8ROUR/md5.txt) [SHA256](https://transfer.sh/1c4OlT/sha256.txt)
 
 
 
