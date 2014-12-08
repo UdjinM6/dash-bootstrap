@@ -1,3 +1,3 @@
+Mon Dec  8 00:00:01 UTC 2014 [https://transfer.sh/epmHu/bootstrap.dat.20141208.zip](https://transfer.sh/epmHu/bootstrap.dat.20141208.zip) (98M) [MD5](https://transfer.sh/12Z2B1/md5.txt) [SHA256](https://transfer.sh/UfJHZ/sha256.txt)
+
 Sun Dec  7 05:05:50 UTC 2014 [https://transfer.sh/1cLVlF/bootstrap.dat.20141207.zip](https://transfer.sh/1cLVlF/bootstrap.dat.20141207.zip) (98M) [MD5](https://transfer.sh/8ROUR/md5.txt) [SHA256](https://transfer.sh/1c4OlT/sha256.txt)
-
-
