@@ -1,3 +1,5 @@
+Wed Jan  7 00:00:01 UTC 2015 [https://transfer.sh/1aFaC4/bootstrap.dat.20150107.zip](https://transfer.sh/1aFaC4/bootstrap.dat.20150107.zip) (308M) [MD5](https://transfer.sh/mbhjK/md5.txt) [SHA256](https://transfer.sh/1XXNc/sha256.txt)
+
 Tue Jan  6 00:00:01 UTC 2015 [https://transfer.sh/2R2nG/bootstrap.dat.20150106.zip](https://transfer.sh/2R2nG/bootstrap.dat.20150106.zip) (307M) [MD5](https://transfer.sh/MSCmO/md5.txt) [SHA256](https://transfer.sh/1e83fy/sha256.txt)
 
 Mon Jan  5 00:00:01 UTC 2015 [https://transfer.sh/IBUzO/bootstrap.dat.20150105.zip](https://transfer.sh/IBUzO/bootstrap.dat.20150105.zip) (306M) [MD5](https://transfer.sh/UZVYT/md5.txt) [SHA256](https://transfer.sh/1gg3Kj/sha256.txt)
@@ -7,5 +9,3 @@ Sun Jan  4 00:00:01 UTC 2015 [https://transfer.sh/19IsrS/bootstrap.dat.20150104.
 Sat Jan  3 00:00:01 UTC 2015 [https://transfer.sh/CUHSv/bootstrap.dat.20150103.zip](https://transfer.sh/CUHSv/bootstrap.dat.20150103.zip) (304M) [MD5](https://transfer.sh/19cmVh/md5.txt) [SHA256](https://transfer.sh/EgLiP/sha256.txt)
 
 Fri Jan  2 00:00:01 UTC 2015 [https://transfer.sh/O91LR/bootstrap.dat.20150102.zip](https://transfer.sh/O91LR/bootstrap.dat.20150102.zip) (303M) [MD5](https://transfer.sh/SURTO/md5.txt) [SHA256](https://transfer.sh/13fhyU/sha256.txt)
-
-Thu Jan  1 00:00:01 UTC 2015 [https://transfer.sh/1erpgM/bootstrap.dat.20150101.zip](https://transfer.sh/1erpgM/bootstrap.dat.20150101.zip) (303M) [MD5](https://transfer.sh/y2KUc/md5.txt) [SHA256](https://transfer.sh/KgAEY/sha256.txt)
