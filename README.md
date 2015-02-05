@@ -16,6 +16,8 @@ _NOTE: bootstrap.dat for testnet must be placed in **testnet3** subfolder of cor
 
 ####For mainnet:
 
+Thu Feb  5 00:00:01 UTC 2015 [https://transfer.sh/v80MY/bootstrap.dat.20150205.zip](https://transfer.sh/v80MY/bootstrap.dat.20150205.zip) (351M) [MD5](https://transfer.sh/LVVeq/md5.txt) [SHA256](https://transfer.sh/11d8GP/sha256.txt)
+
 Wed Feb  4 00:00:01 UTC 2015 [https://transfer.sh/ErDvN/bootstrap.dat.20150204.zip](https://transfer.sh/ErDvN/bootstrap.dat.20150204.zip) (350M) [MD5](https://transfer.sh/j1AMY/md5.txt) [SHA256](https://transfer.sh/wpE2n/sha256.txt)
 
 Tue Feb  3 00:00:01 UTC 2015 [https://transfer.sh/yiKyX/bootstrap.dat.20150203.zip](https://transfer.sh/yiKyX/bootstrap.dat.20150203.zip) (348M) [MD5](https://transfer.sh/FDzOh/md5.txt) [SHA256](https://transfer.sh/8p1hN/sha256.txt)
@@ -26,9 +28,9 @@ Sun Feb  1 00:00:02 UTC 2015 [https://transfer.sh/zOBC4/bootstrap.dat.20150201.z
 
 Sat Jan 31 00:00:01 UTC 2015 [https://transfer.sh/7EqPN/bootstrap.dat.20150131.zip](https://transfer.sh/7EqPN/bootstrap.dat.20150131.zip) (343M) [MD5](https://transfer.sh/1fjkME/md5.txt) [SHA256](https://transfer.sh/ceKGK/sha256.txt)
 
-Fri Jan 30 00:00:01 UTC 2015 [https://transfer.sh/12DL9A/bootstrap.dat.20150130.zip](https://transfer.sh/12DL9A/bootstrap.dat.20150130.zip) (342M) [MD5](https://transfer.sh/15C2Og/md5.txt) [SHA256](https://transfer.sh/a4VMA/sha256.txt)
-
 ####For testnet:
+
+Thu Feb  5 00:00:01 UTC 2015 [https://transfer.sh/N3S9c/bootstrap.dat.20150205.zip](https://transfer.sh/N3S9c/bootstrap.dat.20150205.zip) (113M) [MD5](https://transfer.sh/jCz8g/md5.txt) [SHA256](https://transfer.sh/16oiUK/sha256.txt)
 
 Wed Feb  4 00:00:01 UTC 2015 [https://transfer.sh/mN4NQ/bootstrap.dat.20150204.zip](https://transfer.sh/mN4NQ/bootstrap.dat.20150204.zip) (113M) [MD5](https://transfer.sh/2fwAd/md5.txt) [SHA256](https://transfer.sh/8L4mR/sha256.txt)
 
@@ -39,8 +41,6 @@ Mon Feb  2 00:00:01 UTC 2015 [https://transfer.sh/2AAAJ/bootstrap.dat.20150202.z
 Sun Feb  1 00:00:02 UTC 2015 [https://transfer.sh/IkcHZ/bootstrap.dat.20150201.zip](https://transfer.sh/IkcHZ/bootstrap.dat.20150201.zip) (113M) [MD5](https://transfer.sh/pJnoi/md5.txt) [SHA256](https://transfer.sh/2SH3U/sha256.txt)
 
 Sat Jan 31 00:00:01 UTC 2015 [https://transfer.sh/12Q77k/bootstrap.dat.20150131.zip](https://transfer.sh/12Q77k/bootstrap.dat.20150131.zip) (113M) [MD5](https://transfer.sh/Dp0BO/md5.txt) [SHA256](https://transfer.sh/H9JwJ/sha256.txt)
-
-Fri Jan 30 00:00:01 UTC 2015 [https://transfer.sh/CmBH5/bootstrap.dat.20150130.zip](https://transfer.sh/CmBH5/bootstrap.dat.20150130.zip) (113M) [MD5](https://transfer.sh/5YqPj/md5.txt) [SHA256](https://transfer.sh/a08L2/sha256.txt)
 
 ### Donations are welcome:
 
