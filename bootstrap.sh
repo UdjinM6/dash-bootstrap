@@ -1,5 +1,7 @@
 #!/bin/bash
 date=`date -u`
+blocks=`darkcoind getinfo | grep blocks | cut -d " " -f 7 | cut -d "," -f 1`
+blocksTestnet=`darkcoind_testnet -conf=/root/.darkcoin/darkcoin-testnet.conf getinfo | grep blocks | cut -d " " -f 7 | cut -d "," -f 1`
 date_fmt=`date -u +%Y%m%d`
 file="bootstrap.dat"
 file_zip="$file.$date_fmt.zip"
@@ -19,7 +21,7 @@ size=`ls -lh $file_zip | awk -F" " '{ print $5 }'`
 url=`curl --upload-file $file_zip https://transfer.sh/$file_zip`
 url_md5=`curl --upload-file $file_md5 https://transfer.sh/$file_md5`
 url_sha256=`curl --upload-file $file_sha256 https://transfer.sh/$file_sha256`
-newLinks="$date [$url]($url) ($size) [MD5]($url_md5) [SHA256]($url_sha256)\n\n$prevLinks"
+newLinks="$blocks $date [$url]($url) ($size) [MD5]($url_md5) [SHA256]($url_sha256)\n\n$prevLinks"
 echo -e "$newLinks" > links.md
 rm $file $file_zip $file_md5 $file_sha256
 #testnet
@@ -32,7 +34,7 @@ size=`ls -lh $file_zip | awk -F" " '{ print $5 }'`
 url=`curl --upload-file $file_zip https://transfer.sh/$file_zip`
 url_md5=`curl --upload-file $file_md5 https://transfer.sh/$file_md5`
 url_sha256=`curl --upload-file $file_sha256 https://transfer.sh/$file_sha256`
-newLinksTestnet="$date [$url]($url) ($size) [MD5]($url_md5) [SHA256]($url_sha256)\n\n$prevLinksTestnet"
+newLinksTestnet="$blocksTestnet $date [$url]($url) ($size) [MD5]($url_md5) [SHA256]($url_sha256)\n\n$prevLinksTestnet"
 echo -e "$newLinksTestnet" > linksTestnet.md
 rm $file $file_zip $file_md5 $file_sha256
 #construct README.md
