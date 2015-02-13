@@ -1,7 +1,7 @@
 #!/bin/bash
-date=`date -u`
 blocks=`darkcoind getinfo | grep blocks | cut -d " " -f 7 | cut -d "," -f 1`
 blocksTestnet=`darkcoind_testnet -conf=/root/.darkcoin/darkcoin-testnet.conf getinfo | grep blocks | cut -d " " -f 7 | cut -d "," -f 1`
+date=`date -u`
 date_fmt=`date -u +%Y%m%d`
 file="bootstrap.dat"
 file_zip="$file.$date_fmt.zip"
