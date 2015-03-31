@@ -1,6 +1,6 @@
 #!/bin/bash
-blocks=`darkcoind getinfo | grep blocks | cut -d " " -f 7 | cut -d "," -f 1`
-blocksTestnet=`darkcoind_testnet -conf=/root/.darkcoin/darkcoin-testnet.conf getinfo | grep blocks | cut -d " " -f 7 | cut -d "," -f 1`
+blocks=`dashd getinfo | grep blocks | cut -d " " -f 7 | cut -d "," -f 1`
+blocksTestnet=`dashd_testnet -conf=/root/.dash/dash-testnet.conf getinfo | grep blocks | cut -d " " -f 7 | cut -d "," -f 1`
 date=`date -u`
 date_fmt=`date -u +%Y%m%d`
 file="bootstrap.dat"
@@ -13,7 +13,7 @@ prevLinks=`head links.md`
 prevLinksTestnet=`head linksTestnet.md`
 footer=`cat footer.md`
 #mainnet
-cat ~/.darkcoin/blocks/blk0000* > $file
+cat ~/.dash/blocks/blk0000* > $file
 touch $file_md5 $file_sha256
 7z a $file_7z $file
 zip $file_zip $file
@@ -29,7 +29,7 @@ newLinks="Block $blocks: $date [7z]($url_7z) ($size_7z) [zip]($url_zip) ($size_z
 echo -e "$newLinks" > links.md
 rm $file $file_7z $file_zip $file_md5 $file_sha256
 #testnet
-cat ~/.darkcoin/testnet3/blocks/blk0000* > $file
+cat ~/.dash/testnet3/blocks/blk0000* > $file
 touch $file_md5 $file_sha256
 7z a $file_7z $file
 zip $file_zip $file
