@@ -16,6 +16,8 @@ _NOTE: bootstrap.dat for testnet must be placed in **testnet3** subfolder of cor
 
 ####For mainnet:
 
+Block 258011: Sat Apr 25 00:00:01 UTC 2015 [7z](https://transfer.sh/Fancz/bootstrap.dat.20150425.7z) (418M) [zip](https://transfer.sh/16i0cd/bootstrap.dat.20150425.zip) (528M) [MD5](https://transfer.sh/e2lyk/md5.txt) [SHA256](https://transfer.sh/1fUYS2/sha256.txt)
+
 Block 257465: Fri Apr 24 00:00:01 UTC 2015 [7z](https://transfer.sh/6i5aG/bootstrap.dat.20150424.7z) (416M) [zip](https://transfer.sh/ov8HP/bootstrap.dat.20150424.zip) (526M) [MD5](https://transfer.sh/Esr6c/md5.txt) [SHA256](https://transfer.sh/1cgFNF/sha256.txt)
 
 Block 256912: Thu Apr 23 00:00:01 UTC 2015 [7z](https://transfer.sh/iEwwL/bootstrap.dat.20150423.7z) (413M) [zip](https://transfer.sh/1e9xDm/bootstrap.dat.20150423.zip) (522M) [MD5](https://transfer.sh/8662p/md5.txt) [SHA256](https://transfer.sh/rXNpO/sha256.txt)
@@ -26,9 +28,9 @@ Block 255816: Tue Apr 21 00:00:01 UTC 2015 [7z](https://transfer.sh/10nrrf/boots
 
 Block 255269: Mon Apr 20 00:00:01 UTC 2015 [7z](https://transfer.sh/ZwQnf/bootstrap.dat.20150420.7z) (408M) [zip](https://transfer.sh/spPeP/bootstrap.dat.20150420.zip) (516M) [MD5](https://transfer.sh/1bfhDF/md5.txt) [SHA256](https://transfer.sh/TGF38/sha256.txt)
 
-Block 254718: Sun Apr 19 00:00:01 UTC 2015 [7z](https://transfer.sh/1d3gz9/bootstrap.dat.20150419.7z) (406M) [zip](https://transfer.sh/kIDTl/bootstrap.dat.20150419.zip) (514M) [MD5](https://transfer.sh/143Iqq/md5.txt) [SHA256](https://transfer.sh/HPfca/sha256.txt)
-
 ####For testnet:
+
+Block : Sat Apr 25 00:00:01 UTC 2015 [7z](https://transfer.sh/1fJQGg/bootstrap.dat.20150425.7z) (34M) [zip](https://transfer.sh/l7Ep8/bootstrap.dat.20150425.zip) (36M) [MD5](https://transfer.sh/ukdTe/md5.txt) [SHA256](https://transfer.sh/4rPMT/sha256.txt)
 
 Block : Fri Apr 24 00:00:01 UTC 2015 [7z](https://transfer.sh/u3QLP/bootstrap.dat.20150424.7z) (34M) [zip](https://transfer.sh/1brMlN/bootstrap.dat.20150424.zip) (36M) [MD5](https://transfer.sh/12Bepi/md5.txt) [SHA256](https://transfer.sh/hChL4/sha256.txt)
 
@@ -39,8 +41,6 @@ Block : Wed Apr 22 00:00:01 UTC 2015 [7z](https://transfer.sh/o2vfy/bootstrap.da
 Block : Tue Apr 21 00:00:01 UTC 2015 [7z](https://transfer.sh/CfKCi/bootstrap.dat.20150421.7z) (33M) [zip](https://transfer.sh/nDdCr/bootstrap.dat.20150421.zip) (36M) [MD5](https://transfer.sh/FJkGA/md5.txt) [SHA256](https://transfer.sh/Biilc/sha256.txt)
 
 Block : Mon Apr 20 00:00:01 UTC 2015 [7z](https://transfer.sh/vIpya/bootstrap.dat.20150420.7z) (33M) [zip](https://transfer.sh/10OJPr/bootstrap.dat.20150420.zip) (36M) [MD5](https://transfer.sh/lqJuQ/md5.txt) [SHA256](https://transfer.sh/aGCzL/sha256.txt)
-
-Block : Sun Apr 19 00:00:01 UTC 2015 [7z](https://transfer.sh/17YjuF/bootstrap.dat.20150419.7z) (33M) [zip](https://transfer.sh/vpmDq/bootstrap.dat.20150419.zip) (36M) [MD5](https://transfer.sh/18H1RF/md5.txt) [SHA256](https://transfer.sh/Q4icf/sha256.txt)
 
 ### Donations are welcome:
 
