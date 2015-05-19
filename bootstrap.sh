@@ -1,6 +1,6 @@
 #!/bin/bash
 blocks=`dashd getinfo | grep blocks | cut -d " " -f 7 | cut -d "," -f 1`
-blocksTestnet=`dashd_testnet -conf=/root/.dash/dash-testnet.conf getinfo | grep blocks | cut -d " " -f 7 | cut -d "," -f 1`
+blocksTestnet=`dash_testnet-cli -conf=/root/.dash/dash-testnet.conf getinfo | grep blocks | cut -d " " -f 7 | cut -d "," -f 1`
 date=`date -u`
 date_fmt=`date -u +%Y%m%d`
 file="bootstrap.dat"
