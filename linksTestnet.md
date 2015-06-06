@@ -1,3 +1,5 @@
+Block 62855: Sat Jun  6 00:00:01 UTC 2015 [7z](https://transfer.sh/D5MCb/bootstrap.dat.20150606.7z) (38M) [zip](https://transfer.sh/11Vwp/bootstrap.dat.20150606.zip) (42M) [SHA256](https://transfer.sh/Dz0sx/sha256.txt)
+
 Block 62284: Fri Jun  5 00:00:01 UTC 2015 [7z](https://transfer.sh/pwsea/bootstrap.dat.20150605.7z) (38M) [zip](https://transfer.sh/X568T/bootstrap.dat.20150605.zip) (41M) [SHA256](https://transfer.sh/pnbeL/sha256.txt)
 
 Block 61753: Thu Jun  4 00:00:01 UTC 2015 [7z](https://transfer.sh/m3kQS/bootstrap.dat.20150604.7z) (38M) [zip](https://transfer.sh/JOe1p/bootstrap.dat.20150604.zip) (41M) [SHA256](https://transfer.sh/MTk35/sha256.txt)
@@ -7,5 +9,3 @@ Block 61208: Wed Jun  3 00:00:01 UTC 2015 [7z](https://transfer.sh/sxqM9/bootstr
 Block 60659: Tue Jun  2 00:00:01 UTC 2015 [7z](https://transfer.sh/5sLRc/bootstrap.dat.20150602.7z) (38M) [zip](https://transfer.sh/mwipz/bootstrap.dat.20150602.zip) (41M) [SHA256](https://transfer.sh/R5Mlq/sha256.txt)
 
 Block 60107: Mon Jun  1 00:00:01 UTC 2015 [7z](https://transfer.sh/uuTes/bootstrap.dat.20150601.7z) (38M) [zip](https://transfer.sh/YZ7ME/bootstrap.dat.20150601.zip) (41M) [SHA256](https://transfer.sh/Ki1VU/sha256.txt)
-
-Block 59562: Sun May 31 00:00:01 UTC 2015 [7z](https://transfer.sh/MoZSe/bootstrap.dat.20150531.7z) (37M) [zip](https://transfer.sh/MbEEc/bootstrap.dat.20150531.zip) (41M) [SHA256](https://transfer.sh/1awYdN/sha256.txt)
