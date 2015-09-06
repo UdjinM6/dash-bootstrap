@@ -16,6 +16,8 @@ _NOTE: bootstrap.dat for testnet must be placed in **testnet3** subfolder of cor
 
 ####For mainnet:
 
+Block 331523: Sun Sep  6 00:00:02 UTC 2015 [7z](https://transfer.sh/KwM1r/bootstrap.dat.20150906.7z) (585M) [zip](https://transfer.sh/DOsHU/bootstrap.dat.20150906.zip) (737M) [SHA256](https://transfer.sh/cbRjr/sha256.txt)
+
 Block 330974: Sat Sep  5 00:00:01 UTC 2015 [7z](https://transfer.sh/S9LeP/bootstrap.dat.20150905.7z) (583M) [zip](https://transfer.sh/18NoUB/bootstrap.dat.20150905.zip) (736M) [SHA256](https://transfer.sh/11TOM3/sha256.txt)
 
 Block 330428: Fri Sep  4 00:00:02 UTC 2015 [7z](https://transfer.sh/1czeOR/bootstrap.dat.20150904.7z) (582M) [zip](https://transfer.sh/VuzJQ/bootstrap.dat.20150904.zip) (735M) [SHA256](https://transfer.sh/mfKTJ/sha256.txt)
@@ -26,9 +28,9 @@ Block 329328: Wed Sep  2 00:00:01 UTC 2015 [7z](https://transfer.sh/19eoik/boots
 
 Block 328777: Tue Sep  1 00:00:01 UTC 2015 [7z](https://transfer.sh/87k13/bootstrap.dat.20150901.7z) (579M) [zip](https://transfer.sh/16k4Px/bootstrap.dat.20150901.zip) (731M) [SHA256](https://transfer.sh/O5BBa/sha256.txt)
 
-Block 328233: Mon Aug 31 00:00:01 UTC 2015 [7z](https://transfer.sh/hgpHp/bootstrap.dat.20150831.7z) (578M) [zip](https://transfer.sh/zzysw/bootstrap.dat.20150831.zip) (730M) [SHA256](https://transfer.sh/whkgn/sha256.txt)
-
 ####For testnet:
+
+Block 96322: Sun Sep  6 00:00:02 UTC 2015 [7z](https://transfer.sh/f6BZ8/bootstrap.dat.20150906.7z) (75M) [zip](https://transfer.sh/wss27/bootstrap.dat.20150906.zip) (82M) [SHA256](https://transfer.sh/1dpfUc/sha256.txt)
 
 Block 95778: Sat Sep  5 00:00:01 UTC 2015 [7z](https://transfer.sh/pBmJl/bootstrap.dat.20150905.7z) (75M) [zip](https://transfer.sh/rwuAl/bootstrap.dat.20150905.zip) (82M) [SHA256](https://transfer.sh/BYdcC/sha256.txt)
 
@@ -39,8 +41,6 @@ Block 94684: Thu Sep  3 00:00:02 UTC 2015 [7z](https://transfer.sh/fG3bb/bootstr
 Block 94134: Wed Sep  2 00:00:01 UTC 2015 [7z](https://transfer.sh/D2YKb/bootstrap.dat.20150902.7z) (75M) [zip](https://transfer.sh/M2yEA/bootstrap.dat.20150902.zip) (82M) [SHA256](https://transfer.sh/18UGbP/sha256.txt)
 
 Block 93588: Tue Sep  1 00:00:01 UTC 2015 [7z](https://transfer.sh/18IJaI/bootstrap.dat.20150901.7z) (75M) [zip](https://transfer.sh/18jqc2/bootstrap.dat.20150901.zip) (82M) [SHA256](https://transfer.sh/lnAk6/sha256.txt)
-
-Block 93042: Mon Aug 31 00:00:01 UTC 2015 [7z](https://transfer.sh/16Buly/bootstrap.dat.20150831.7z) (75M) [zip](https://transfer.sh/eG6kK/bootstrap.dat.20150831.zip) (82M) [SHA256](https://transfer.sh/ZJZ6S/sha256.txt)
 
 ### Donations are welcome:
 
