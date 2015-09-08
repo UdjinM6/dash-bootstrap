@@ -46,5 +46,6 @@ rm $file $file_7z $file_zip $file_sha256
 #construct README.md
 echo -e "$header\n\n####For mainnet:\n\n$newLinks\n\n####For testnet:\n\n$newLinksTestnet\n\n$footer" > README.md
 #push
-git commit -am "$date - autoupdate"
+git add *.md
+git commit -m "$date - autoupdate"
 git push
