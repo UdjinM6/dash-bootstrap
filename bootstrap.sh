@@ -26,7 +26,7 @@ url_zip=`curl --upload-file $file_zip https://transfer.sh/$file_zip`
 url_sha256=`curl --upload-file $file_sha256 https://transfer.sh/$file_sha256`
 newLinks="Block $blocks: $date [7z]($url_7z) ($size_7z) [zip]($url_zip) ($size_zip) [SHA256]($url_sha256)\n\n$prevLinks"
 echo -e "$newLinks" > links.md
-rm $file $file_7z $file_zip $file_sha256
+rm $file $file_7z $file_zip $file_sha256 hashlist.txt
 #testnet
 #cat ~/.dash/testnet3/blocks/blk0000* > $file
 ./linearize-hashes.py linearize-testnet.cfg > hashlist.txt
@@ -42,7 +42,7 @@ url_zip=`curl --upload-file $file_zip https://transfer.sh/$file_zip`
 url_sha256=`curl --upload-file $file_sha256 https://transfer.sh/$file_sha256`
 newLinksTestnet="Block $blocksTestnet: $date [7z]($url_7z) ($size_7z) [zip]($url_zip) ($size_zip) [SHA256]($url_sha256)\n\n$prevLinksTestnet"
 echo -e "$newLinksTestnet" > linksTestnet.md
-rm $file $file_7z $file_zip $file_sha256
+rm $file $file_7z $file_zip $file_sha256 hashlist.txt
 #construct README.md
 echo -e "$header\n\n####For mainnet:\n\n$newLinks\n\n####For testnet:\n\n$newLinksTestnet\n\n$footer" > README.md
 #push
