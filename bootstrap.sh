@@ -12,7 +12,9 @@ prevLinks=`head links.md`
 prevLinksTestnet=`head linksTestnet.md`
 footer=`cat footer.md`
 #mainnet
-cat ~/.dash/blocks/blk0000* > $file
+#cat ~/.dash/blocks/blk0000* > $file
+./linearize-hashes.py linearize.cfg > hashlist.txt
+./linearize-data.py linearize.cfg 
 touch $file_sha256
 7z a $file_7z $file
 zip $file_zip $file
@@ -26,7 +28,9 @@ newLinks="Block $blocks: $date [7z]($url_7z) ($size_7z) [zip]($url_zip) ($size_z
 echo -e "$newLinks" > links.md
 rm $file $file_7z $file_zip $file_sha256
 #testnet
-cat ~/.dash/testnet3/blocks/blk0000* > $file
+#cat ~/.dash/testnet3/blocks/blk0000* > $file
+./linearize-hashes.py linearize-testnet.cfg > hashlist.txt
+./linearize-data.py linearize-testnet.cfg 
 touch $file_sha256
 7z a $file_7z $file
 zip $file_zip $file
