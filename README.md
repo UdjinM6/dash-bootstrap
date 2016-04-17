@@ -3,7 +3,7 @@
 ### Usage
 
 1. Download and extract one of the recent files linked below.
-2. Place bootstrap.dat file to your Dash folder:
+2. Place bootstrap.dat file inside of your Dash folder:
  - Windows: %APPDATA%\Dash\
  - Mac OS: ~/Library/Application Support/Dash/
  - Unix/Linux: ~/.dash/
