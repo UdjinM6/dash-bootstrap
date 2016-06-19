@@ -16,6 +16,8 @@ _NOTE: bootstrap.dat for testnet must be placed in **testnet3** subfolder of cor
 
 ####For mainnet:
 
+Block 489116: Sun Jun 19 09:08:40 UTC 2016 [7z](https://transfer.sh/1u2Ew/bootstrap.dat.20160619.7z) (873M) [zip](https://transfer.sh/LX7Mb/bootstrap.dat.20160619.zip) (1.1G) [SHA256](https://transfer.sh/14H1nA/sha256.txt)
+
 Block 488905: Sun Jun 19 00:00:01 UTC 2016 [7z]() (873M) [zip]() (1.1G) [SHA256]()
 
 Block 488355: Sat Jun 18 00:00:01 UTC 2016 [7z]() (872M) [zip]() (1.1G) [SHA256](https://transfer.sh/RX2nY/sha256.txt)
@@ -26,9 +28,9 @@ Block 487263: Thu Jun 16 00:00:01 UTC 2016 [7z]() (870M) [zip]() (1.1G) [SHA256]
 
 Block 486719: Wed Jun 15 00:00:02 UTC 2016 [7z](https://transfer.sh/fTyjg/bootstrap.dat.20160615.7z) (869M) [zip](https://transfer.sh/fP3Ws/bootstrap.dat.20160615.zip) (1.1G) [SHA256](https://transfer.sh/150K27/sha256.txt)
 
-Block 486168: Tue Jun 14 00:00:01 UTC 2016 [7z](https://transfer.sh/1QSIn/bootstrap.dat.20160614.7z) (868M) [zip](https://transfer.sh/uyTre/bootstrap.dat.20160614.zip) (1.1G) [SHA256](https://transfer.sh/Ge5qy/sha256.txt)
-
 ####For testnet:
+
+Block 25005: Sun Jun 19 09:08:40 UTC 2016 [7z](https://transfer.sh/ba8MQ/bootstrap.dat.20160619.7z) (18M) [zip](https://transfer.sh/HhXDC/bootstrap.dat.20160619.zip) (19M) [SHA256](https://transfer.sh/2eypG/sha256.txt)
 
 Block 24800: Sun Jun 19 00:00:01 UTC 2016 [7z]() (18M) [zip]() (19M) [SHA256]()
 
@@ -39,8 +41,6 @@ Block 23705: Fri Jun 17 00:00:02 UTC 2016 [7z](https://transfer.sh/apPCB/bootstr
 Block 23154: Thu Jun 16 00:00:01 UTC 2016 [7z](https://transfer.sh/ive5h/bootstrap.dat.20160616.7z) (16M) [zip](https://transfer.sh/ohm3M/bootstrap.dat.20160616.zip) (18M) [SHA256](https://transfer.sh/eOAHH/sha256.txt)
 
 Block 22602: Wed Jun 15 00:00:02 UTC 2016 [7z](https://transfer.sh/XVJY6/bootstrap.dat.20160615.7z) (16M) [zip](https://transfer.sh/x8rFm/bootstrap.dat.20160615.zip) (18M) [SHA256](https://transfer.sh/SCuEH/sha256.txt)
-
-Block 22057: Tue Jun 14 00:00:01 UTC 2016 [7z](https://transfer.sh/LIBF6/bootstrap.dat.20160614.7z) (16M) [zip](https://transfer.sh/67SYn/bootstrap.dat.20160614.zip) (17M) [SHA256](https://transfer.sh/b6iyN/sha256.txt)
 
 ### Donations are welcome:
 
