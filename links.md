@@ -1,3 +1,5 @@
+Block 495487: Fri Jul  1 00:00:01 UTC 2016 [7z](https://transfer.sh/EGgle/bootstrap.dat.20160701.7z) (883M) [zip](https://transfer.sh/kDN7X/bootstrap.dat.20160701.zip) (1.1G) [SHA256](https://transfer.sh/GJe4z/sha256.txt)
+
 Block 494943: Thu Jun 30 00:00:01 UTC 2016 [7z](https://transfer.sh/GI9L/bootstrap.dat.20160630.7z) (882M) [zip](https://transfer.sh/vnUTj/bootstrap.dat.20160630.zip) (1.1G) [SHA256](https://transfer.sh/T42qz/sha256.txt)
 
 Block 494386: Wed Jun 29 00:00:02 UTC 2016 [7z](https://transfer.sh/mEB2m/bootstrap.dat.20160629.7z) (881M) [zip](https://transfer.sh/1368bg/bootstrap.dat.20160629.zip) (1.1G) [SHA256](https://transfer.sh/mDVNn/sha256.txt)
@@ -7,5 +9,3 @@ Block 493844: Tue Jun 28 00:00:01 UTC 2016 [7z](https://transfer.sh/Thoy4/bootst
 Block 493294: Mon Jun 27 00:00:01 UTC 2016 [7z](https://transfer.sh/FIHsv/bootstrap.dat.20160627.7z) (880M) [zip](https://transfer.sh/xsYvR/bootstrap.dat.20160627.zip) (1.1G) [SHA256](https://transfer.sh/tdzIV/sha256.txt)
 
 Block 492747: Sun Jun 26 00:00:02 UTC 2016 [7z](https://transfer.sh/fQvUG/bootstrap.dat.20160626.7z) (879M) [zip](https://transfer.sh/uPrzv/bootstrap.dat.20160626.zip) (1.1G) [SHA256](https://transfer.sh/6GARe/sha256.txt)
-
-Block 492204: Sat Jun 25 00:00:02 UTC 2016 [7z](https://transfer.sh/SlcdS/bootstrap.dat.20160625.7z) (878M) [zip](https://transfer.sh/uqc9x/bootstrap.dat.20160625.zip) (1.1G) [SHA256](https://transfer.sh/vcEud/sha256.txt)
