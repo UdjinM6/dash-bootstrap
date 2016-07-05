@@ -16,6 +16,8 @@ _NOTE: bootstrap.dat for testnet must be placed in **testnet3** subfolder of cor
 
 ####For mainnet:
 
+Block 497682: Tue Jul  5 00:00:01 UTC 2016 [7z](https://transfer.sh/VGRS5/bootstrap.dat.20160705.7z) (887M) [zip](https://transfer.sh/uRGla/bootstrap.dat.20160705.zip) (1.1G) [SHA256](https://transfer.sh/pRdoZ/sha256.txt)
+
 Block 497138: Mon Jul  4 00:00:01 UTC 2016 [7z](https://transfer.sh/mEklD/bootstrap.dat.20160704.7z) (886M) [zip](https://transfer.sh/10R0Gr/bootstrap.dat.20160704.zip) (1.1G) [SHA256](https://transfer.sh/fujC7/sha256.txt)
 
 Block 496588: Sun Jul  3 00:00:01 UTC 2016 [7z](https://transfer.sh/dqWTb/bootstrap.dat.20160703.7z) (885M) [zip](https://transfer.sh/SLLuP/bootstrap.dat.20160703.zip) (1.1G) [SHA256](https://transfer.sh/165A8k/sha256.txt)
@@ -26,9 +28,9 @@ Block 495487: Fri Jul  1 00:00:01 UTC 2016 [7z](https://transfer.sh/EGgle/bootst
 
 Block 494943: Thu Jun 30 00:00:01 UTC 2016 [7z](https://transfer.sh/GI9L/bootstrap.dat.20160630.7z) (882M) [zip](https://transfer.sh/vnUTj/bootstrap.dat.20160630.zip) (1.1G) [SHA256](https://transfer.sh/T42qz/sha256.txt)
 
-Block 494386: Wed Jun 29 00:00:02 UTC 2016 [7z](https://transfer.sh/mEB2m/bootstrap.dat.20160629.7z) (881M) [zip](https://transfer.sh/1368bg/bootstrap.dat.20160629.zip) (1.1G) [SHA256](https://transfer.sh/mDVNn/sha256.txt)
-
 ####For testnet:
+
+Block 33561: Tue Jul  5 00:00:01 UTC 2016 [7z](https://transfer.sh/2qgvB/bootstrap.dat.20160705.7z) (19M) [zip](https://transfer.sh/ZRtWX/bootstrap.dat.20160705.zip) (21M) [SHA256](https://transfer.sh/lFuJP/sha256.txt)
 
 Block 33017: Mon Jul  4 00:00:01 UTC 2016 [7z](https://transfer.sh/ZknNq/bootstrap.dat.20160704.7z) (19M) [zip](https://transfer.sh/10RHzQ/bootstrap.dat.20160704.zip) (21M) [SHA256](https://transfer.sh/8UqKf/sha256.txt)
 
@@ -39,8 +41,6 @@ Block 31914: Sat Jul  2 00:00:01 UTC 2016 [7z](https://transfer.sh/Pbmpk/bootstr
 Block 31373: Fri Jul  1 00:00:01 UTC 2016 [7z](https://transfer.sh/13dw2w/bootstrap.dat.20160701.7z) (19M) [zip](https://transfer.sh/1dQoo/bootstrap.dat.20160701.zip) (21M) [SHA256](https://transfer.sh/qKxaf/sha256.txt)
 
 Block 30821: Thu Jun 30 00:00:01 UTC 2016 [7z](https://transfer.sh/OvPqo/bootstrap.dat.20160630.7z) (19M) [zip](https://transfer.sh/wXynQ/bootstrap.dat.20160630.zip) (21M) [SHA256](https://transfer.sh/aZAr2/sha256.txt)
-
-Block 30272: Wed Jun 29 00:00:02 UTC 2016 [7z](https://transfer.sh/jTzER/bootstrap.dat.20160629.7z) (19M) [zip](https://transfer.sh/ap0RR/bootstrap.dat.20160629.zip) (21M) [SHA256](https://transfer.sh/tJ1lm/sha256.txt)
 
 ### Donations are welcome:
 
