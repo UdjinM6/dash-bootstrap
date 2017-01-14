@@ -1,3 +1,5 @@
+Block 135697: Sat Jan 14 00:00:02 UTC 2017 [7z](https://transfer.sh/u5f4x/bootstrap.dat.20170114.7z) (24M) [zip](https://transfer.sh/M0VcC/bootstrap.dat.20170114.zip) (26M) [SHA256](https://transfer.sh/sl99k/sha256.txt)
+
 Block 135135: Fri Jan 13 00:00:01 UTC 2017 [7z](https://transfer.sh/12NZQ2/bootstrap.dat.20170113.7z) (24M) [zip](https://transfer.sh/13L3vm/bootstrap.dat.20170113.zip) (26M) [SHA256](https://transfer.sh/b6M7H/sha256.txt)
 
 Block 134594: Thu Jan 12 00:00:01 UTC 2017 [7z](https://transfer.sh/ki6f1/bootstrap.dat.20170112.7z) (24M) [zip](https://transfer.sh/khLoA/bootstrap.dat.20170112.zip) (26M) [SHA256](https://transfer.sh/SEA2d/sha256.txt)
@@ -7,5 +9,3 @@ Block 133502: Tue Jan 10 00:00:02 UTC 2017 [7z](https://transfer.sh/3kQAo/bootst
 Block 132948: Mon Jan  9 00:00:01 UTC 2017 [7z](https://transfer.sh/zRFKC/bootstrap.dat.20170109.7z) (24M) [zip](https://transfer.sh/v5pdr/bootstrap.dat.20170109.zip) (26M) [SHA256](https://transfer.sh/cRKfw/sha256.txt)
 
 Block 132391: Sun Jan  8 00:00:05 UTC 2017 [7z](https://transfer.sh/BDN36/bootstrap.dat.20170108.7z) (24M) [zip](https://transfer.sh/S6zRB/bootstrap.dat.20170108.zip) (26M) [SHA256](https://transfer.sh/Q5lvs/sha256.txt)
-
-Block 131852: Sat Jan  7 00:00:01 UTC 2017 [7z](https://transfer.sh/yaIZW/bootstrap.dat.20170107.7z) (24M) [zip](https://transfer.sh/vlCwg/bootstrap.dat.20170107.zip) (26M) [SHA256](https://transfer.sh/OXBBC/sha256.txt)
