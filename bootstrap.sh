@@ -1,5 +1,5 @@
 #!/bin/bash
-blocks=`dash-cli getinfo | grep blocks | cut -d " " -f 7 | cut -d "," -f 1`
+blocks=`dash-cli getinfo | grep blocks | cut -d " " -f 4 | cut -d "," -f 1`
 blocksTestnet=`dash_testnet-cli -conf=/root/.dashcore/dash-testnet.conf getinfo | grep blocks | cut -d " " -f 4 | cut -d "," -f 1`
 date=`date -u`
 date_fmt=`date -u +%Y%m%d`
