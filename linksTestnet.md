@@ -1,4 +1,4 @@
-Block : Thu Feb  9 00:00:01 UTC 2017 [7z](https://transfer.sh/yYKqD/bootstrap.dat.20170209.7z) (32) [zip]() () [SHA256](https://transfer.sh/1Gg2b/sha256.txt)
+Block 149959: Thu Feb  9 06:35:24 UTC 2017 [7z](https://transfer.sh/nqmZH/bootstrap.dat.20170209.7z) (32) [zip]() () [SHA256](https://transfer.sh/13yLDH/sha256.txt)
 
 Block 149265: Wed Feb  8 00:00:01 UTC 2017 [7z](https://transfer.sh/ftOPf/bootstrap.dat.20170208.7z) (24M) [zip](https://transfer.sh/jcw0x/bootstrap.dat.20170208.zip) (26M) [SHA256](https://transfer.sh/7045h/sha256.txt)
 
