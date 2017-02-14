@@ -16,6 +16,8 @@ _NOTE: bootstrap.dat for testnet must be placed in **testnet3** subfolder of cor
 
 ####For mainnet:
 
+Block 620519: Tue Feb 14 00:00:01 UTC 2017 [7z](https://transfer.sh/vyaAY/bootstrap.dat.20170214.7z) (1.2G) [zip](https://transfer.sh/KOLWS/bootstrap.dat.20170214.zip) (1.4G) [SHA256](https://transfer.sh/pBYtY/sha256.txt)
+
 Block 619969: Mon Feb 13 00:00:01 UTC 2017 [7z](https://transfer.sh/Qe8dj/bootstrap.dat.20170213.7z) (1.2G) [zip](https://transfer.sh/W49Zs/bootstrap.dat.20170213.zip) (1.4G) [SHA256](https://transfer.sh/1pZxZ/sha256.txt)
 
 Block 619426: Sun Feb 12 00:00:01 UTC 2017 [7z](https://transfer.sh/9TZi5/bootstrap.dat.20170212.7z) (1.2G) [zip](https://transfer.sh/1eblp/bootstrap.dat.20170212.zip) (1.4G) [SHA256](https://transfer.sh/QlTft/sha256.txt)
@@ -26,9 +28,9 @@ Block 618881: Sat Feb 11 00:00:02 UTC 2017 [7z](https://transfer.sh/8b02j/bootst
 
 Block 618331: Fri Feb 10 00:00:01 UTC 2017 [7z](https://transfer.sh/zmQ78/bootstrap.dat.20170210.7z) (1.2G) [zip]() () [SHA256](https://transfer.sh/Lq50a/sha256.txt)
 
-Block 617934: Thu Feb  9 06:35:24 UTC 2017 [7z](https://transfer.sh/10o7W9/bootstrap.dat.20170209.7z) (1.2G) [zip](https://transfer.sh/dThQl/bootstrap.dat.20170209.zip) (1.4G) [SHA256](https://transfer.sh/edKFL/sha256.txt)
-
 ####For testnet:
+
+Block 152547: Tue Feb 14 00:00:01 UTC 2017 [7z](https://transfer.sh/Dr7HA/bootstrap.dat.20170214.7z) (24M) [zip](https://transfer.sh/YDYIe/bootstrap.dat.20170214.zip) (26M) [SHA256](https://transfer.sh/NBs7F/sha256.txt)
 
 Block 151995: Mon Feb 13 00:00:01 UTC 2017 [7z](https://transfer.sh/oqVzR/bootstrap.dat.20170213.7z) (24M) [zip](https://transfer.sh/bEdNx/bootstrap.dat.20170213.zip) (26M) [SHA256](https://transfer.sh/obVhj/sha256.txt)
 
@@ -39,8 +41,6 @@ Block 151246: Sat Feb 11 15:03:43 UTC 2017 [7z](https://transfer.sh/C3ziv/bootst
 Block 150902: Sat Feb 11 00:00:02 UTC 2017 [7z](https://transfer.sh/AdbAG/bootstrap.dat.20170211.7z) (24M) [zip](https://transfer.sh/FlSWN/bootstrap.dat.20170211.zip) (26M) [SHA256](https://transfer.sh/uybtT/sha256.txt)
 
 Block 150350: Fri Feb 10 00:00:01 UTC 2017 [7z](https://transfer.sh/PdNFY/bootstrap.dat.20170210.7z) (24M) [zip](https://transfer.sh/82ArA/bootstrap.dat.20170210.zip) (26M) [SHA256](https://transfer.sh/QagOO/sha256.txt)
-
-Block 149959: Thu Feb  9 06:35:24 UTC 2017 [7z](https://transfer.sh/nqmZH/bootstrap.dat.20170209.7z) (32) [zip]() () [SHA256](https://transfer.sh/13yLDH/sha256.txt)
 
 ### Donations are welcome:
 
