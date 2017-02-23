@@ -3,18 +3,20 @@
 ### Usage
 
 1. Download and extract one of the recent files linked below.
-2. Place bootstrap.dat file inside of your Dash Core folder:
- - Windows: %APPDATA%\DashCore\
- - Mac OS: ~/Library/Application Support/DashCore/
- - Unix/Linux: ~/.dashcore/
+2. Place bootstrap.dat file inside of your Dash folder:
+ - Windows: %APPDATA%\Dash\
+ - Mac OS: ~/Library/Application Support/Dash/
+ - Unix/Linux: ~/.dash/
 3. Run your wallet and let it sync using bootstrap.dat
 4. Once sync is done bootstrap.dat file will be renamed to bootstrap.dat.old automagically and can be safely removed.
 
-_NOTE: bootstrap.dat for testnet must be placed in **testnet3** subfolder of corresponding Dash Core folder_
+_NOTE: bootstrap.dat for testnet must be placed in **testnet3** subfolder of corresponding Dash folder_
 
 ### Recent files
 
 ####For mainnet:
+
+Block 625461: Thu Feb 23 00:00:01 UTC 2017 [7z](https://transfer.sh/oqU5i/bootstrap.dat.20170223.7z) (1.2G) [zip](https://transfer.sh/YCGHd/bootstrap.dat.20170223.zip) (1.5G) [SHA256](https://transfer.sh/Yt2Aa/sha256.txt)
 
 Block 624911: Wed Feb 22 00:00:02 UTC 2017 [7z](https://transfer.sh/DtbMc/bootstrap.dat.20170222.7z) (1.2G) [zip](https://transfer.sh/SOiGQ/bootstrap.dat.20170222.zip) (1.5G) [SHA256](https://transfer.sh/P9Om9/sha256.txt)
 
@@ -26,9 +28,9 @@ Block 623263: Sun Feb 19 00:00:01 UTC 2017 [7z](https://transfer.sh/QLB0l/bootst
 
 Block 622720: Sat Feb 18 00:00:01 UTC 2017 [7z](https://transfer.sh/cQHkJ/bootstrap.dat.20170218.7z) (1.2G) [zip](https://transfer.sh/fROBe/bootstrap.dat.20170218.zip) (1.5G) [SHA256](https://transfer.sh/Eiyrf/sha256.txt)
 
-Block 622166: Fri Feb 17 00:00:01 UTC 2017 [7z](https://transfer.sh/BQN4Y/bootstrap.dat.20170217.7z) (1.2G) [zip](https://transfer.sh/lLeXE/bootstrap.dat.20170217.zip) (1.5G) [SHA256](https://transfer.sh/ZieyW/sha256.txt)
-
 ####For testnet:
+
+Block 157482: Thu Feb 23 00:00:01 UTC 2017 [7z](https://transfer.sh/122WY5/bootstrap.dat.20170223.7z) (24M) [zip](https://transfer.sh/yNhms/bootstrap.dat.20170223.zip) (26M) [SHA256](https://transfer.sh/ozCtP/sha256.txt)
 
 Block 156930: Wed Feb 22 00:00:02 UTC 2017 [7z](https://transfer.sh/27rB5/bootstrap.dat.20170222.7z) (24M) [zip](https://transfer.sh/fe1sk/bootstrap.dat.20170222.zip) (26M) [SHA256](https://transfer.sh/op8tC/sha256.txt)
 
@@ -39,8 +41,6 @@ Block 155835: Mon Feb 20 00:00:01 UTC 2017 [7z](https://transfer.sh/chGWs/bootst
 Block 155289: Sun Feb 19 00:00:01 UTC 2017 [7z](https://transfer.sh/OnPk/bootstrap.dat.20170219.7z) (24M) [zip](https://transfer.sh/RzBUj/bootstrap.dat.20170219.zip) (26M) [SHA256](https://transfer.sh/16bEQx/sha256.txt)
 
 Block 154740: Sat Feb 18 00:00:01 UTC 2017 [7z](https://transfer.sh/ZQ7e5/bootstrap.dat.20170218.7z) (24M) [zip](https://transfer.sh/wnVAH/bootstrap.dat.20170218.zip) (26M) [SHA256](https://transfer.sh/pMbxm/sha256.txt)
-
-Block 154197: Fri Feb 17 00:00:01 UTC 2017 [7z](https://transfer.sh/lDTyp/bootstrap.dat.20170217.7z) (24M) [zip](https://transfer.sh/slMjb/bootstrap.dat.20170217.zip) (26M) [SHA256](https://transfer.sh/15XiyL/sha256.txt)
 
 ### Donations are welcome:
 
