@@ -1,6 +1,6 @@
 #!/bin/bash
 blocks=`dash-cli getblockcount`
-blocksTestnet=`dash_testnet-cli -conf=/root/.dashcore/dash-testnet.conf getblockcount`
+blocksTestnet=`dash_testnet-cli -datadir=/root/.dashcore_test getblockcount`
 date=`date -u`
 date_fmt=`date -u +%Y%m%d`
 file="bootstrap.dat"
