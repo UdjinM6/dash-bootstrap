@@ -1,3 +1,5 @@
+Block : Fri May 26 00:00:01 UTC 2017 [7z](https://transfer.sh/p6bEp/bootstrap.dat.20170526.7z) (32) [zip]() () [SHA256](https://transfer.sh/yAzTk/sha256.txt)
+
 Block : Thu May 25 00:00:01 UTC 2017 [7z](https://transfer.sh/vv0TQ/bootstrap.dat.20170525.7z) (32) [zip]() () [SHA256](https://transfer.sh/Fszaq/sha256.txt)
 
 Block : Wed May 24 00:00:02 UTC 2017 [7z](https://transfer.sh/ma6IG/bootstrap.dat.20170524.7z) (32) [zip]() () [SHA256](https://transfer.sh/rNt3D/sha256.txt)
@@ -7,5 +9,3 @@ Block : Tue May 23 00:00:01 UTC 2017 [7z](https://transfer.sh/sDRG4/bootstrap.da
 Block : Mon May 22 00:00:01 UTC 2017 [7z](https://transfer.sh/uCR3m/bootstrap.dat.20170522.7z) (32) [zip]() () [SHA256](https://transfer.sh/CLAYj/sha256.txt)
 
 Block : Sun May 21 00:00:01 UTC 2017 [7z](https://transfer.sh/m6J8J/bootstrap.dat.20170521.7z) (32) [zip]() () [SHA256](https://transfer.sh/12TNnY/sha256.txt)
-
-Block : Sat May 20 00:00:01 UTC 2017 [7z](https://transfer.sh/15PYEA/bootstrap.dat.20170520.7z) (32) [zip]() () [SHA256](https://transfer.sh/10FoAl/sha256.txt)

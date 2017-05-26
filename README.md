@@ -16,6 +16,8 @@ _NOTE: bootstrap.dat for testnet must be placed in **testnet3** subfolder of cor
 
 ####For mainnet:
 
+Block 675912: Fri May 26 00:00:01 UTC 2017 [7z](https://transfer.sh/1292ZZ/bootstrap.dat.20170526.7z) (1.5G) [zip](https://transfer.sh/JG4rM/bootstrap.dat.20170526.zip) (1.8G) [SHA256](https://transfer.sh/YuP7R/sha256.txt)
+
 Block 675360: Thu May 25 00:00:01 UTC 2017 [7z](https://transfer.sh/veMLO/bootstrap.dat.20170525.7z) (1.5G) [zip](https://transfer.sh/zjobd/bootstrap.dat.20170525.zip) (1.8G) [SHA256](https://transfer.sh/sjGV0/sha256.txt)
 
 Block 674812: Wed May 24 00:00:02 UTC 2017 [7z](https://transfer.sh/vDLZe/bootstrap.dat.20170524.7z) (1.5G) [zip](https://transfer.sh/VTcNZ/bootstrap.dat.20170524.zip) (1.8G) [SHA256](https://transfer.sh/b1Itc/sha256.txt)
@@ -26,9 +28,9 @@ Block 673718: Mon May 22 00:00:01 UTC 2017 [7z](https://transfer.sh/iWejl/bootst
 
 Block 673169: Sun May 21 00:00:01 UTC 2017 [7z](https://transfer.sh/X0RRo/bootstrap.dat.20170521.7z) (1.5G) [zip](https://transfer.sh/k6INO/bootstrap.dat.20170521.zip) (1.8G) [SHA256](https://transfer.sh/mO36X/sha256.txt)
 
-Block 672618: Sat May 20 00:00:01 UTC 2017 [7z](https://transfer.sh/oZgK6/bootstrap.dat.20170520.7z) (1.5G) [zip](https://transfer.sh/LJe3Q/bootstrap.dat.20170520.zip) (1.8G) [SHA256](https://transfer.sh/cv0SC/sha256.txt)
-
 ####For testnet:
+
+Block : Fri May 26 00:00:01 UTC 2017 [7z](https://transfer.sh/p6bEp/bootstrap.dat.20170526.7z) (32) [zip]() () [SHA256](https://transfer.sh/yAzTk/sha256.txt)
 
 Block : Thu May 25 00:00:01 UTC 2017 [7z](https://transfer.sh/vv0TQ/bootstrap.dat.20170525.7z) (32) [zip]() () [SHA256](https://transfer.sh/Fszaq/sha256.txt)
 
@@ -39,8 +41,6 @@ Block : Tue May 23 00:00:01 UTC 2017 [7z](https://transfer.sh/sDRG4/bootstrap.da
 Block : Mon May 22 00:00:01 UTC 2017 [7z](https://transfer.sh/uCR3m/bootstrap.dat.20170522.7z) (32) [zip]() () [SHA256](https://transfer.sh/CLAYj/sha256.txt)
 
 Block : Sun May 21 00:00:01 UTC 2017 [7z](https://transfer.sh/m6J8J/bootstrap.dat.20170521.7z) (32) [zip]() () [SHA256](https://transfer.sh/12TNnY/sha256.txt)
-
-Block : Sat May 20 00:00:01 UTC 2017 [7z](https://transfer.sh/15PYEA/bootstrap.dat.20170520.7z) (32) [zip]() () [SHA256](https://transfer.sh/10FoAl/sha256.txt)
 
 ### Donations are welcome:
 
