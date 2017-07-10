@@ -4,7 +4,6 @@ blocksTestnet=`dash_testnet-cli -datadir=/root/.dashcore_test getblockcount`
 date=`date -u`
 date_fmt=`date -u +%Y%m%d`
 file="bootstrap.dat"
-file_7z="$file.$date_fmt.7z"
 file_zip="$file.$date_fmt.zip"
 file_sha256="sha256.txt"
 header=`cat header.md`
@@ -18,12 +17,6 @@ footer=`cat footer.md`
 #
 touch $file_sha256
 sha256sum $file > $file_sha256
-#7z
-7z a $file_7z $file
-sha256sum $file_7z >> $file_sha256
-size_7z=`ls -lh $file_7z | awk -F" " '{ print $5 }'`
-url_7z=`curl --upload-file $file_7z https://transfer.sh/$file_7z`
-rm $file_7z
 #zip
 zip $file_zip $file
 sha256sum $file_zip >> $file_sha256
@@ -32,7 +25,7 @@ url_zip=`curl --upload-file $file_zip https://transfer.sh/$file_zip`
 rm $file_zip
 #
 url_sha256=`curl --upload-file $file_sha256 https://transfer.sh/$file_sha256`
-newLinks="Block $blocks: $date [7z]($url_7z) ($size_7z) [zip]($url_zip) ($size_zip) [SHA256]($url_sha256)\n\n$prevLinks"
+newLinks="Block $blocks: $date [zip]($url_zip) ($size_zip) [SHA256]($url_sha256)\n\n$prevLinks"
 echo -e "$newLinks" > links.md
 rm $file $file_sha256 hashlist.txt
 #testnet
@@ -42,12 +35,6 @@ rm $file $file_sha256 hashlist.txt
 #
 touch $file_sha256
 sha256sum $file > $file_sha256
-#7z
-7z a $file_7z $file
-sha256sum $file_7z >> $file_sha256
-size_7z=`ls -lh $file_7z | awk -F" " '{ print $5 }'`
-url_7z=`curl --upload-file $file_7z https://transfer.sh/$file_7z`
-rm $file_7z
 #zip
 zip $file_zip $file
 sha256sum $file_zip >> $file_sha256
@@ -56,7 +43,7 @@ url_zip=`curl --upload-file $file_zip https://transfer.sh/$file_zip`
 rm $file_zip
 #
 url_sha256=`curl --upload-file $file_sha256 https://transfer.sh/$file_sha256`
-newLinksTestnet="Block $blocksTestnet: $date [7z]($url_7z) ($size_7z) [zip]($url_zip) ($size_zip) [SHA256]($url_sha256)\n\n$prevLinksTestnet"
+newLinksTestnet="Block $blocksTestnet: $date [zip]($url_zip) ($size_zip) [SHA256]($url_sha256)\n\n$prevLinksTestnet"
 echo -e "$newLinksTestnet" > linksTestnet.md
 rm $file $file_sha256 hashlist.txt
 #construct README.md
