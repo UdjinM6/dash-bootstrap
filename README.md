@@ -16,6 +16,8 @@ _NOTE: bootstrap.dat for testnet must be placed in **testnet3** subfolder of cor
 
 ####For mainnet:
 
+Block 774131: Tue Nov 21 00:00:02 UTC 2017 [zip](https://transfer.sh/l06ZJ/bootstrap.dat.20171121.zip) (2.6G) [SHA256](https://transfer.sh/DZDsL/sha256.txt)
+
 Block 773584: Mon Nov 20 00:00:01 UTC 2017 [zip](https://transfer.sh/GCv1S/bootstrap.dat.20171120.zip) (2.6G) [SHA256](https://transfer.sh/AwjZK/sha256.txt)
 
 Block 773033: Sun Nov 19 00:00:01 UTC 2017 [zip](https://transfer.sh/AOlAj/bootstrap.dat.20171119.zip) (2.6G) [SHA256](https://transfer.sh/N88kk/sha256.txt)
@@ -26,9 +28,9 @@ Block 771939: Fri Nov 17 00:00:01 UTC 2017 [zip](https://transfer.sh/YW8xj/boots
 
 Block 771384: Thu Nov 16 00:00:01 UTC 2017 [zip](Could not save file) (2.6G) [SHA256](https://transfer.sh/OiEIC/sha256.txt)
 
-Block 770841: Wed Nov 15 00:00:02 UTC 2017 [zip](https://transfer.sh/qKL4u/bootstrap.dat.20171115.zip) (2.6G) [SHA256](https://transfer.sh/eFN4n/sha256.txt)
-
 ####For testnet:
+
+Block 29698: Tue Nov 21 00:00:02 UTC 2017 [zip](https://transfer.sh/11S1bf/bootstrap.dat.20171121.zip) (1.2G) [SHA256](https://transfer.sh/9yVH8/sha256.txt)
 
 Block 29160: Mon Nov 20 00:00:01 UTC 2017 [zip](https://transfer.sh/CWiLc/bootstrap.dat.20171120.zip) (1.2G) [SHA256](https://transfer.sh/AAnlO/sha256.txt)
 
@@ -39,8 +41,6 @@ Block 28064: Sat Nov 18 00:00:01 UTC 2017 [zip](https://transfer.sh/xr7vu/bootst
 Block 27516: Fri Nov 17 00:00:01 UTC 2017 [zip](https://transfer.sh/mK89R/bootstrap.dat.20171117.zip) (1.1G) [SHA256](https://transfer.sh/Xm4sc/sha256.txt)
 
 Block 26970: Thu Nov 16 00:00:01 UTC 2017 [zip](https://transfer.sh/J18BD/bootstrap.dat.20171116.zip) (1.1G) [SHA256](https://transfer.sh/fVs8L/sha256.txt)
-
-Block 26420: Wed Nov 15 00:00:02 UTC 2017 [zip](Could not save file) (1.1G) [SHA256](https://transfer.sh/rYEKE/sha256.txt)
 
 ### Donations are welcome:
 
