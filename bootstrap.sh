@@ -28,8 +28,7 @@ do_the_job() {
   sha256sum $file > $file_sha256
   sha256sum $file_zip >> $file_sha256
   # store
-  s3cmd put $file_zip $file_sha256 $s3currentPath
-  s3cmd setacl $s3currentPath$file_zip $s3currentPath$file_sha256 --acl-public
+  s3cmd put $file_zip $file_sha256 $s3currentPath --acl-public
   # update docs
   url_zip=$s3currentUrl$file_zip
   url_sha256=$s3currentUrl$file_sha256
