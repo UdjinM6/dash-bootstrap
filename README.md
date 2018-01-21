@@ -14,7 +14,7 @@ _NOTE: bootstrap.dat for testnet must be placed in **testnet3** subfolder of cor
 
 ### Recent files
 
-####For mainnet:
+#### For mainnet:
 
 Block 807028: Sat Jan 20 00:00:01 UTC 2018 [zip](Due to abuse we've limited max upload size. Thank the pirates!) (3.0G) [SHA256](https://transfer.sh/74gQW/sha256.txt)
 
@@ -28,7 +28,7 @@ Block 804836: Tue Jan 16 00:00:01 UTC 2018 [zip](https://transfer.sh/oytuH/boots
 
 Block 804289: Mon Jan 15 00:00:01 UTC 2018 [zip](https://transfer.sh/FgcEq/bootstrap.dat.20180115.zip) (3.0G) [SHA256](https://transfer.sh/151kR2/sha256.txt)
 
-####For testnet:
+#### For testnet:
 
 Block 61673: Sat Jan 20 00:00:01 UTC 2018 [zip](Due to abuse we've limited max upload size. Thank the pirates!) (1.9G) [SHA256](https://transfer.sh/cBAY2/sha256.txt)
 
