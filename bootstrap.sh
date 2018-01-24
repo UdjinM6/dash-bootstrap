@@ -1,4 +1,5 @@
 #!/bin/bash
+s3cmd="/usr/local/bin/s3cmd --config=/root/.s3cfg"
 s3name="dash-bootstrap"
 s3bucket="s3://$s3name/"
 s3https="https://$s3name.ams3.digitaloceanspaces.com/"
@@ -28,7 +29,7 @@ do_the_job() {
   sha256sum $file > $file_sha256
   sha256sum $file_zip >> $file_sha256
   # store
-  s3cmd put $file_zip $file_sha256 $s3currentPath --acl-public
+  $s3cmd put $file_zip $file_sha256 $s3currentPath --acl-public
   # update docs
   url_zip=$s3currentUrl$file_zip
   url_sha256=$s3currentUrl$file_sha256
@@ -45,7 +46,7 @@ do_the_job() {
     loopDate=$(date -u -d "now -"$keepDays" days" +%Y-%m-%d)
     found=$(echo -e $oldFolders | grep -oP $loopDate)
     if [ "$found" != "" ]; then
-      s3cmd del -r $s3networkPath
+      $s3cmd del -r $s3networkPath
     fi
     let keepDays=keepDays+1
   done
