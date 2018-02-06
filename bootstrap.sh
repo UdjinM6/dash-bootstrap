@@ -46,7 +46,8 @@ do_the_job() {
     loopDate=$(date -u -d "now -"$keepDays" days" +%Y-%m-%d)
     found=$(echo -e $oldFolders | grep -oP $loopDate)
     if [ "$found" != "" ]; then
-      $s3cmd del -r $s3networkPath
+      echo "found old folder $found, deleting..."
+      $s3cmd del -r $s3networkPath$loopDate/
     fi
     let keepDays=keepDays+1
   done
