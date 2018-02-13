@@ -41,12 +41,12 @@ do_the_job() {
   # clean up old files
   keepDays=7
   scanDays=30
-  oldFolders=$(s3cmd ls $s3networkPath | grep -oP 's3:.*')
+  oldFolders=$($s3cmd ls $s3networkPath | grep -oP 's3:.*')
   while [ $keepDays -lt $scanDays ]; do
     loopDate=$(date -u -d "now -"$keepDays" days" +%Y-%m-%d)
     found=$(echo -e $oldFolders | grep -oP $loopDate)
     if [ "$found" != "" ]; then
-      echo "found old folder $found, deleting..."
+      echo "found old folder $found, deleting $s3networkPath$loopDate/ ..."
       $s3cmd del -r $s3networkPath$loopDate/
     fi
     let keepDays=keepDays+1
