@@ -16,6 +16,8 @@ _NOTE: bootstrap.dat for testnet must be placed in **testnet3** subfolder of cor
 
 #### For mainnet:
 
+Block 928218: Wed Aug 29 00:00:01 UTC 2018 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2018-08-29/bootstrap.dat.zip) (4.4G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2018-08-29/sha256.txt)
+
 Block 927666: Tue Aug 28 00:00:01 UTC 2018 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2018-08-28/bootstrap.dat.zip) (4.4G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2018-08-28/sha256.txt)
 
 Block 927121: Mon Aug 27 00:00:01 UTC 2018 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2018-08-27/bootstrap.dat.zip) (4.4G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2018-08-27/sha256.txt)
@@ -26,10 +28,10 @@ Block 926023: Sat Aug 25 00:00:02 UTC 2018 [zip](https://dash-bootstrap.ams3.dig
 
 Block 925476: Fri Aug 24 00:00:01 UTC 2018 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2018-08-24/bootstrap.dat.zip) (4.4G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2018-08-24/sha256.txt)
 
-Block 924929: Thu Aug 23 00:00:01 UTC 2018 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2018-08-23/bootstrap.dat.zip) (4.4G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2018-08-23/sha256.txt)
-
 
 #### For testnet:
+
+Block 215647: Wed Aug 29 00:15:15 UTC 2018 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2018-08-29/bootstrap.dat.zip) (1.9G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2018-08-29/sha256.txt)
 
 Block 215045: Tue Aug 28 00:16:15 UTC 2018 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2018-08-28/bootstrap.dat.zip) (1.9G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2018-08-28/sha256.txt)
 
@@ -40,8 +42,6 @@ Block 213782: Sun Aug 26 00:14:19 UTC 2018 [zip](https://dash-bootstrap.ams3.dig
 Block 213180: Sat Aug 25 00:14:52 UTC 2018 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2018-08-25/bootstrap.dat.zip) (1.9G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2018-08-25/sha256.txt)
 
 Block 212574: Fri Aug 24 00:14:39 UTC 2018 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2018-08-24/bootstrap.dat.zip) (1.9G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2018-08-24/sha256.txt)
-
-Block 211945: Thu Aug 23 00:14:39 UTC 2018 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2018-08-23/bootstrap.dat.zip) (1.9G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2018-08-23/sha256.txt)
 
 
 ### Donations are welcome:
