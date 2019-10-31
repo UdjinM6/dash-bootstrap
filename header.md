@@ -1,4 +1,4 @@
-# bootstrap.dat files for [Dash Core](https://www.dash.org)
+# bootstrap.dat files for [Dash Core](https://github.com/dashpay/dash)
 
 ### Usage
 
