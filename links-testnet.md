@@ -1,3 +1,5 @@
+Block 420711: Wed Jan  6 00:45:02 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-01-06/bootstrap.dat.zip) (1.1G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-01-06/sha256.txt)
+
 Block 420042: Tue Jan  5 00:33:42 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-01-05/bootstrap.dat.zip) (1.1G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-01-05/sha256.txt)
 
 Block 419375: Mon Jan  4 00:34:21 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-01-04/bootstrap.dat.zip) (1.1G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-01-04/sha256.txt)
@@ -7,5 +9,3 @@ Block 418700: Sun Jan  3 00:32:10 UTC 2021 [zip](https://dash-bootstrap.ams3.dig
 Block 418010: Sat Jan  2 00:36:05 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-01-02/bootstrap.dat.zip) (1.1G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-01-02/sha256.txt)
 
 Block 417320: Fri Jan  1 00:30:30 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-01-01/bootstrap.dat.zip) (1.1G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-01-01/sha256.txt)
-
-Block 416635: Thu Dec 31 00:33:06 UTC 2020 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2020-12-31/bootstrap.dat.zip) (1.1G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2020-12-31/sha256.txt)
