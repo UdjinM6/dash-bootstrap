@@ -34,7 +34,7 @@ do_the_job() {
   url_zip=$s3currentUrl$file_zip
   url_sha256=$s3currentUrl$file_sha256
   size_zip=`ls -lh $file_zip | awk -F" " '{ print $5 }'`
-  newLinks="Block $blocks: $date [zip]($url_zip) ($size_zip) [SHA256]($url_sha256)\n\n$prevLinks"
+  newLinks="Block [$blocks]($url_explorer): $date [zip]($url_zip) ($size_zip) [SHA256]($url_sha256)\n\n$prevLinks"
   echo -e "$newLinks" > $linksFile
   rm $file $file_zip $file_sha256 hashlist.txt
   echo -e "#### For $network:\n\n$newLinks\n\n" >> README.md
@@ -60,11 +60,15 @@ echo -e "$header\n" > README.md
 # mainnet
 #cat ~/.dash/blocks/blk0000* > $file
 blocks=`dash-cli getblockcount`
+blockhash=`dash-cli getblockhash $blocks`
+url_explorer="https://insight.dash.org/insight/block/$blockhash"
 do_the_job mainnet
 
 # testnet
 #cat ~/.dash/testnet3/blocks/blk0000* > $file
 blocks=`dash_testnet-cli -datadir=/root/.dashcore_test getblockcount`
+blockhash=`dash_testnet-cli -datadir=/root/.dashcore_test getblockhash $blocks`
+url_explorer="https://testnet-insight.dashevo.org/insight/block/$blockhash"
 do_the_job testnet
 
 # finalize with the footer
