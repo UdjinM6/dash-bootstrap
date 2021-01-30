@@ -1,3 +1,5 @@
+Block [1413452](https://insight.dash.org/insight/block/000000000000000d6b63328d48f3b7f81ae1ecbece6df56ca80217a2231dbcf8): Sat Jan 30 00:00:01 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-01-30/bootstrap.dat.zip) (7.7G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-01-30/sha256.txt)
+
 Block [1412907](https://insight.dash.org/insight/block/0000000000000016335d458c41773c52e6691210bdb52fefdda9583b7752d2cf): Fri Jan 29 00:00:01 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-01-29/bootstrap.dat.zip) (7.7G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-01-29/sha256.txt)
 
 Block [1412351](https://insight.dash.org/insight/block/0000000000000007ab29f9fdca4e286f5723febb58bf7a338eba6dd21dd4ed5b): Thu Jan 28 00:00:01 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-01-28/bootstrap.dat.zip) (7.7G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-01-28/sha256.txt)
@@ -7,5 +9,3 @@ Block [1411809](https://insight.dash.org/insight/block/0000000000000007e0e66d032
 Block [1411261](https://insight.dash.org/insight/block/0000000000000016201c2db624f7d775f12f6cf65c5e6e98d1c0eb95e7924664): Tue Jan 26 00:00:01 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-01-26/bootstrap.dat.zip) (7.7G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-01-26/sha256.txt)
 
 Block [1410713](https://insight.dash.org/insight/block/000000000000000acd86ffb3e6abf12b6de4916d3b87e7914b8c44458724e626): Mon Jan 25 00:00:02 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-01-25/bootstrap.dat.zip) (7.7G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-01-25/sha256.txt)
-
-Block [1410166](https://insight.dash.org/insight/block/0000000000000015d8aa9c9faf379bb545a843f7c55f9edca28d2ca3d9cead38): Sun Jan 24 00:00:01 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-01-24/bootstrap.dat.zip) (7.7G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-01-24/sha256.txt)
