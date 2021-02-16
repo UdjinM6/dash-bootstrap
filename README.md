@@ -16,6 +16,8 @@ _NOTE: bootstrap.dat for testnet must be placed in **testnet3** subfolder of cor
 
 #### For mainnet:
 
+Block [1422786](https://insight.dash.org/insight/block/000000000000000727460af51783d19d97b256146abc274eb3a15ece1007396d): Tue Feb 16 00:00:01 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-02-16/bootstrap.dat.zip) (7.7G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-02-16/sha256.txt)
+
 Block [1422240](https://insight.dash.org/insight/block/00000000000000061f885404039ad9e3c43f0386a8e376342c6e3370b12886b9): Mon Feb 15 00:00:01 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-02-15/bootstrap.dat.zip) (7.7G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-02-15/sha256.txt)
 
 Block [1421684](https://insight.dash.org/insight/block/0000000000000007cbda3de9a6e65799e5af7e087990d6aecf971bc56188d914): Sun Feb 14 00:00:02 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-02-14/bootstrap.dat.zip) (7.7G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-02-14/sha256.txt)
@@ -26,10 +28,10 @@ Block [1420586](https://insight.dash.org/insight/block/000000000000000979670a851
 
 Block [1420040](https://insight.dash.org/insight/block/0000000000000006d20f4cf6e7d6a775fc210cb68d3014b4d15253cfa217772a): Thu Feb 11 00:00:02 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-02-11/bootstrap.dat.zip) (7.7G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-02-11/sha256.txt)
 
-Block [1419493](https://insight.dash.org/insight/block/000000000000000c6d2913dbd59506266185db5cf4cd834d96727c6b5f74f8a7): Wed Feb 10 00:00:01 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-02-10/bootstrap.dat.zip) (7.7G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-02-10/sha256.txt)
-
 
 #### For testnet:
+
+Block [445903](https://testnet-insight.dashevo.org/insight/block/0000005195cad61cb610f2959ab413a503ce78876ce0f710e9855221a164582a): Tue Feb 16 00:34:18 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-02-16/bootstrap.dat.zip) (1.1G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-02-16/sha256.txt)
 
 Block [445281](https://testnet-insight.dashevo.org/insight/block/00000090acf5aa76ee5041858dac7079a024e778cece6f50efd4903f300aed76): Mon Feb 15 00:36:18 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-02-15/bootstrap.dat.zip) (1.1G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-02-15/sha256.txt)
 
@@ -40,8 +42,6 @@ Block [444081](https://testnet-insight.dashevo.org/insight/block/000001778251c5d
 Block [443456](https://testnet-insight.dashevo.org/insight/block/000000ea9f96c8551fb4d980725846ae29bfc41bd08d3af2fb53b4e71722dffb): Fri Feb 12 00:37:26 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-02-12/bootstrap.dat.zip) (1.1G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-02-12/sha256.txt)
 
 Block [442847](https://testnet-insight.dashevo.org/insight/block/000000d2eaeca85420ea0c0ea25451b604b285f98f6a6caadad1b23041135e5c): Thu Feb 11 00:36:28 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-02-11/bootstrap.dat.zip) (1.1G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-02-11/sha256.txt)
-
-Block [442249](https://testnet-insight.dashevo.org/insight/block/000001a700f81c2bb3aa0b9c5f10b59dc77d0338d4c5381c539de9bb3b4e91cc): Wed Feb 10 00:37:51 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-02-10/bootstrap.dat.zip) (1.1G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-02-10/sha256.txt)
 
 
 ### Donations are welcome:
