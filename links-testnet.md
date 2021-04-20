@@ -1,3 +1,5 @@
+Block [484571](https://testnet-insight.dashevo.org/insight/block/0000008b42c3804fa61102087900f7a4fa61b932af3bf8445be690f0666ba39b): Tue Apr 20 00:34:59 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-04-20/bootstrap.dat.zip) (1.1G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-04-20/sha256.txt)
+
 Block [483935](https://testnet-insight.dashevo.org/insight/block/00000240709bf7c577aa5e93593e989c3408b46d66aaa5a7f4100d7b73b61ca9): Mon Apr 19 00:37:33 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-04-19/bootstrap.dat.zip) (1.1G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-04-19/sha256.txt)
 
 Block [483351](https://testnet-insight.dashevo.org/insight/block/000000b839b991a79c557c322ef5f33e5f349c45c9ec52a2a96dc4dd7efcbc5d): Sun Apr 18 00:34:38 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-04-18/bootstrap.dat.zip) (1.1G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-04-18/sha256.txt)
@@ -7,5 +9,3 @@ Block [482728](https://testnet-insight.dashevo.org/insight/block/000001eb2a83232
 Block [482122](https://testnet-insight.dashevo.org/insight/block/0000001d43463b880d813f36ac621881f7edf929fb48cc365d229c0bf4d1496c): Fri Apr 16 00:35:14 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-04-16/bootstrap.dat.zip) (1.1G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-04-16/sha256.txt)
 
 Block [481502](https://testnet-insight.dashevo.org/insight/block/000001a631c2898fab69c21a321cbed8d6d12d88e8d84a03d3bd7a4bdfcef347): Thu Apr 15 00:35:25 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-04-15/bootstrap.dat.zip) (1.1G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-04-15/sha256.txt)
-
-Block [480900](https://testnet-insight.dashevo.org/insight/block/000000c2f5ad6ba2ff4f8ae42680baa6b62d88e43990d945706ccf956cb47eb7): Wed Apr 14 00:36:36 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-04-14/bootstrap.dat.zip) (1.1G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2021-04-14/sha256.txt)
