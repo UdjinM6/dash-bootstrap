@@ -1,3 +1,5 @@
+Block [](https://insight.dash.org/insight/block/): Thu Jan  6 00:00:01 UTC 2022 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2022-01-06/bootstrap.dat.zip) (7.7G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2022-01-06/sha256.txt)
+
 Block [](https://insight.dash.org/insight/block/): Wed Jan  5 00:00:01 UTC 2022 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2022-01-05/bootstrap.dat.zip) (7.7G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2022-01-05/sha256.txt)
 
 Block [](https://insight.dash.org/insight/block/): Tue Jan  4 00:00:01 UTC 2022 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2022-01-04/bootstrap.dat.zip) (7.7G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2022-01-04/sha256.txt)
@@ -7,5 +9,3 @@ Block [](https://insight.dash.org/insight/block/): Mon Jan  3 00:00:02 UTC 2022 
 Block [](https://insight.dash.org/insight/block/): Sun Jan  2 00:00:02 UTC 2022 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2022-01-02/bootstrap.dat.zip) (7.7G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2022-01-02/sha256.txt)
 
 Block [](https://insight.dash.org/insight/block/): Sat Jan  1 00:00:02 UTC 2022 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2022-01-01/bootstrap.dat.zip) (7.7G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2022-01-01/sha256.txt)
-
-Block [](https://insight.dash.org/insight/block/): Fri Dec 31 00:00:01 UTC 2021 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-12-31/bootstrap.dat.zip) (7.7G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/mainnet/2021-12-31/sha256.txt)
