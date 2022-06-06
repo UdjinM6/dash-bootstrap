@@ -1,3 +1,5 @@
+Block [](https://testnet-insight.dashevo.org/insight/block/): Mon Jun  6 00:54:48 UTC 2022 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2022-06-06/bootstrap.dat.zip) (1.6G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2022-06-06/sha256.txt)
+
 Block [](https://testnet-insight.dashevo.org/insight/block/): Sun Jun  5 00:26:59 UTC 2022 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2022-06-05/bootstrap.dat.zip) (1.6G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2022-06-05/sha256.txt)
 
 Block [](https://testnet-insight.dashevo.org/insight/block/): Sat Jun  4 00:27:18 UTC 2022 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2022-06-04/bootstrap.dat.zip) (1.6G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2022-06-04/sha256.txt)
@@ -7,5 +9,3 @@ Block [](https://testnet-insight.dashevo.org/insight/block/): Fri Jun  3 00:27:0
 Block [](https://testnet-insight.dashevo.org/insight/block/): Thu Jun  2 00:26:44 UTC 2022 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2022-06-02/bootstrap.dat.zip) (1.6G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2022-06-02/sha256.txt)
 
 Block [](https://testnet-insight.dashevo.org/insight/block/): Wed Jun  1 00:27:07 UTC 2022 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2022-06-01/bootstrap.dat.zip) (1.6G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2022-06-01/sha256.txt)
-
-Block [](https://testnet-insight.dashevo.org/insight/block/): Tue May 31 00:27:55 UTC 2022 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2022-05-31/bootstrap.dat.zip) (1.6G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2022-05-31/sha256.txt)
