@@ -18,7 +18,7 @@ do_the_job() {
   s3currentPath="$s3networkPath$date_fmt/"
   s3currentUrl="$s3https$network/$date_fmt/"
   linksFile="links-$network.md"
-  prevLinks=`head $linksFile`
+  prevLinks=`head -n1 $linksFile`
   echo "$network job - Starting..."
   # process blockchain
   ./linearize-hashes.py linearize-$network.cfg > hashlist.txt
@@ -39,8 +39,8 @@ do_the_job() {
   rm $file $file_zip $file_sha256 hashlist.txt
   echo -e "#### For $network:\n\n$newLinks\n\n" >> README.md
   # clean up old files
-  keepDays=7
-  scanDays=30
+  keepDays=55
+  scanDays=80
   oldFolders=$($s3cmd ls $s3networkPath | grep -oP 's3:.*')
   while [ $keepDays -lt $scanDays ]; do
     loopDate=$(date -u -d "now -"$keepDays" days" +%Y-%m-%d)
