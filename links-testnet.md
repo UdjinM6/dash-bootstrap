@@ -1,1 +1,3 @@
-Block [742727](https://testnet-insight.dashevo.org/insight/block/0000005a2c1a80addaac93ee148ef9332cae3776253f1baa4ba5527320042192): Tue Jun 14 00:53:34 UTC 2022 [zip](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2022-06-14/bootstrap.dat.zip) (1.6G) [SHA256](https://dash-bootstrap.ams3.digitaloceanspaces.com/testnet/2022-06-14/sha256.txt)
+Block [743366](https://testnet-insight.dashevo.org/insight/block/000000c37524cae1791d9bfa58235d9f2549644ce52aa67426c25d6f04eafe79): Wed Jun 15 01:39:54 UTC 2022 [zip](https://dash-bootstrap-2.ams3.digitaloceanspaces.com/testnet/2022-06-15/bootstrap.dat.zip) (1.6G) [SHA256](https://dash-bootstrap-2.ams3.digitaloceanspaces.com/testnet/2022-06-15/sha256.txt)
+
+
