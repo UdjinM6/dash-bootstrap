@@ -1,6 +1,6 @@
 #!/bin/bash
 s3cmd="/usr/local/bin/s3cmd --config=/root/.s3cfg"
-s3name="dash-bootstrap"
+s3name="dash-bootstrap-2"
 s3bucket="s3://$s3name/"
 s3https="https://$s3name.ams3.digitaloceanspaces.com/"
 file="bootstrap.dat"
