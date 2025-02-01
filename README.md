@@ -17,9 +17,9 @@ Block [2198026](https://insight.dash.org/insight/block/000000000000000c6f6973b54
 
 #### For testnet:
 
-Block [1187612](https://testnet-insight.dashevo.org/insight/block/000001a1c94fc2cf2a084c3d874f506a1e27b0d2485eecb3e84a90affe725094): Sat 01 Feb 2025 01:11:18 AM UTC [zip](https://dash-bootstrap-2.ams3.digitaloceanspaces.com/testnet/2025-02-01/bootstrap.dat.zip) (2.1G) [SHA256](https://dash-bootstrap-2.ams3.digitaloceanspaces.com/testnet/2025-02-01/sha256.txt)
+Block [1187612](https://insight.testnet.networks.dash.org/insight/block/000001a1c94fc2cf2a084c3d874f506a1e27b0d2485eecb3e84a90affe725094): Sat 01 Feb 2025 01:11:18 AM UTC [zip](https://dash-bootstrap-2.ams3.digitaloceanspaces.com/testnet/2025-02-01/bootstrap.dat.zip) (2.1G) [SHA256](https://dash-bootstrap-2.ams3.digitaloceanspaces.com/testnet/2025-02-01/sha256.txt)
 
-Block [1168698](https://testnet-insight.dashevo.org/insight/block/000000a26e1b59b079935a5629c49286481a45e6cbea6e2b3a04bd907b9b6fea): Wed 01 Jan 2025 01:01:57 AM UTC [zip](https://dash-bootstrap-2.ams3.digitaloceanspaces.com/testnet/2025-01-01/bootstrap.dat.zip) (2.1G) [SHA256](https://dash-bootstrap-2.ams3.digitaloceanspaces.com/testnet/2025-01-01/sha256.txt)
+Block [1168698](https://insight.testnet.networks.dash.org/insight/block/000000a26e1b59b079935a5629c49286481a45e6cbea6e2b3a04bd907b9b6fea): Wed 01 Jan 2025 01:01:57 AM UTC [zip](https://dash-bootstrap-2.ams3.digitaloceanspaces.com/testnet/2025-01-01/bootstrap.dat.zip) (2.1G) [SHA256](https://dash-bootstrap-2.ams3.digitaloceanspaces.com/testnet/2025-01-01/sha256.txt)
 
 
 ### Donations are welcome:

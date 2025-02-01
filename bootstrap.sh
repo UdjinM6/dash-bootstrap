@@ -68,7 +68,7 @@ do_the_job mainnet
 #cat ~/.dash/testnet3/blocks/blk0000* > $file
 blocks=`dash_testnet-cli -datadir=/root/.dashcore_test getblockcount`
 blockhash=`dash_testnet-cli -datadir=/root/.dashcore_test getblockhash $blocks`
-url_explorer="https://testnet-insight.dashevo.org/insight/block/$blockhash"
+url_explorer="https://insight.testnet.networks.dash.org/insight/block/$blockhash"
 do_the_job testnet
 
 # finalize with the footer
